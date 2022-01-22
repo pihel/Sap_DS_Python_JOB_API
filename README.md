@@ -1,3 +1,5 @@
+Удаленный запуск SAP DS job используя Python
+
 Usage: 
 ```python
 dj = DSJob("""<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://www.businessobjects.com/DataServices/ServerX.xsd">
@@ -37,4 +39,4 @@ del dj
 ```
 
 
-More info: http://blog.skahin.ru/
+More info: http://blog.skahin.ru/2022/01/sap-ds-job-python.html
